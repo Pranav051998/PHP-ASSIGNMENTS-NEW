@@ -1,0 +1,134 @@
+table {
+  border: 5px solid black;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+form div{
+	padding: 10px;
+	
+}
+.first{
+	margin-top: 54px;
+	margin-left: -5px;
+}
+.Second{
+	margin-left: -28px;
+	border-radius: 5px;
+}
+ form{
+ 	top:300px;
+ 	text-align: center;
+ }
+.loginform{
+	background-image: url("img-1.jpg");
+}
+h1{
+	margin-top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color:white;
+}
+.Third{
+	border-radius: 5px;
+
+}
+.boder {
+  display: inline-block;
+  font-weight: bolder;
+  margin-top: 400px;
+  margin-left: 150px;
+  font-family: 'Aladin';
+}
+
+.boder a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.boder a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.boder a:hover:not(.active) {
+	background-color: #ddd;}
+
+.choosebody{
+	background-image:url("img-2.jpg");
+}
+.choosehead{
+	font-size: 50px;
+	text-align: center;
+	color:black;
+	font-weight: bolder;
+	font-family: 'Aladin';
+}
+.firstform{
+	text-align: center;
+	margin-top: 200px;
+	box-shadow: -10px -3px 80px ;
+	width: 600px;
+	margin-left: 300px;
+	opacity: 10px;
+	color:white;
+}
+.Secondform{
+	text-align: center;
+	margin-top: 300px;
+	box-shadow: -10px -3px 80px ;
+	width: 600px;
+	margin-left: 300px;
+	opacity: 10px;
+	color:white;
+}
+.Textarea{
+	text-align: center;
+	margin-top:300px;
+	box-shadow: -10px -3px 80px ;
+	width: 600px;
+	margin-left: 300px;
+	opacity: 10px;
+	color:white;
+}
+.Telephone{
+	text-align: center;
+	margin-top:300px;
+	box-shadow: -10px 7px 80px ;
+	width: 600px;
+	margin-left: 300px;
+	opacity: 10px;
+	color:white;
+}
+.Email{
+	text-align: center;
+	margin-top:300px;
+	box-shadow: -10px 7px 80px ;
+	width: 600px;
+	margin-left: 300px;
+	opacity: 10px;
+	color:white;
+   
+}
+.beforefirstform{
+	background-image: url("img-3.jpg");
+	
+}
+*{
+	margin: 0px auto;
+}
+.beforeSecondform{
+	background-image: url("img-3.jpg");
+}
+.beforeTextarea{
+	background-image: url("img-3.jpg");
+}
+.beforeTelephone{
+	background-image: url("img-3.jpg");
+}
+.beforeEmail{
+	background-image: url("img-3.jpg");
+}
