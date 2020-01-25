@@ -1,0 +1,173 @@
+.loginform{
+	text-align: center;
+	box-shadow: -10px -3px 80px ;
+	width:500px;
+	margin-left: 350px;
+	margin-top:250px;
+
+
+}
+.first{
+	margin-top: 54px;
+	margin-left: -5px;
+}
+.Second{
+	margin-left: -28px;
+	border-radius: 5px;
+}
+.choosebody{
+	background-color: blue;
+}
+.choosehead{
+	font-size: 50px;
+	text-align: center;
+	color:black;
+	font-weight: bolder;
+     }
+.boder {
+  display: inline-block;
+  font-weight: bolder;
+  margin-top: 400px;
+  margin-left: 150px;
+  font-family: 'Aladin';
+  box-shadow: -10px -3px 80px ;
+	width:1000px;
+	background-color: white;
+}
+
+.boder a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.boder a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.boder a:hover:not(.active) {
+	background-color: #ddd;}
+
+
+.Button{
+	float: right;
+   background:orange;
+   text-decoration: none;
+}
+.firstform{
+	text-align: center;
+	box-shadow: -10px -3px 80px ;
+	width:500px;
+	margin-left: 350px;
+}
+.firstformheading{
+	display: inline;
+	text-align: center;
+}
+
+.beforefirstform{
+	margin-top: 100px;
+}
+.firstphp{
+	margin-right:140px;
+	margin-top: 100px;
+	float: right;
+}
+.links a{
+	color: black;
+   float: left;
+   padding: 8px 16px;
+   text-decoration: none;
+   font-size: 25px;
+
+}
+.links a.active{
+	background-color: #4CAF50;
+
+}
+.links a:hover:not(.active){
+	background-color: #ddd;
+}
+
+.beforeSecondform{
+	margin-top: 300px;
+
+}
+.Secondform{
+	text-align: center;
+	box-shadow: -10px -3px 80px ;
+	width:500px;
+	margin-left: 350px;
+}
+.Secondformheading{
+	display: inline;
+	text-align: center;
+
+}
+.Secondphp{
+	margin-right:150px;
+	margin-top: 5px;
+	float: right;
+
+}
+.beforeTextarea{
+	margin-top: 300px;
+}
+.Textarea{
+	text-align: center;
+	box-shadow: -10px -3px 80px ;
+	width:500px;
+	margin-left: 350px;
+
+}
+.Textareaheading{
+	display: inline;
+	text-align: center;
+
+}
+.Thirdphp{
+	margin-right:150px;
+	margin-top: 25px;
+	float: right;
+}
+.beforeTelephone{
+	margin-top: 300px;
+
+}
+.Telephone{
+	text-align: center;
+	box-shadow: -10px -3px 80px ;
+	width:500px;
+	margin-left: 350px;
+
+}
+.headingTelephone{
+	display: inline;
+	text-align: center;
+}
+.Fourthphp{
+	margin-right:150px;
+	margin-top: 25px;
+	float: right;
+}
+.beforeEmail{
+	margin-top: 300px;
+}
+.Email{
+	text-align: center;
+	box-shadow: -10px -3px 80px ;
+	width:500px;
+	margin-left: 350px;
+
+}
+.headingEmail{
+	display: inline;
+	text-align: center;
+}
+.Fivephp{
+	margin-right:70px;
+	margin-top: 10px;
+	float: right;
+}
